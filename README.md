@@ -1,4 +1,4 @@
-# ChallangeNLP
+# Desafio Processamento de Linguagem natural
 
 Para este desafio, foi criada uma máquina preditiva capaz de classificar mensagens de SMS para decidir se a mensagem deve ser bloqueada ou não.
 O modelo preditivo usado atingiu uma acurácia de 98,8%, tendo a seguinte matriz de confusão:
